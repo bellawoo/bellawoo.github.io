@@ -1,0 +1,12 @@
+# Site settings
+title: Bella Woo
+email: woo.bella@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Bella is a Ruby on Rails developer in Washington, DC.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://bellawoo.com" # the base hostname & protocol for your site
+twitter_username: bellawo0
+github_username:  bellawoo
+
+# Build settings
+markdown: kramdown

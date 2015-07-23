@@ -1,0 +1,78 @@
+h1.brand-header {
+  font-size: 330%;
+  font-weight: bold;
+  color: #ff00b4;
+  margin: 0 auto;
+}
+
+h1.page-heading, h1.post-title {
+  font-size: 330%;
+  font-weight: bold;
+}
+
+small {
+  font-size: 120%;
+  letter-spacing: -.05em;
+}
+
+header.site-header {
+  border-top: 5px solid #ff00b4;
+  border-bottom: none;
+  min-height: 56px;
+  position: relative;
+}
+
+
+nav.site-nav {
+  float: left;
+  line-height: 24px; }
+  .site-nav .menu-icon {
+    display: none; }
+  .site-nav .page-link {
+    color: #111;
+    line-height: 1.5;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 60%;
+    letter-spacing: .45em; }
+    .site-nav .page-link:not(:first-child) {
+      margin-left: 20px; }
+  .current a { 
+    color: #ff00b4;
+  }
+  a:hover, a:focus {
+  color: #ff00b4;
+  border: none;
+  }
+
+  @media screen and (max-width: 600px) {
+    .site-nav {
+      position: absolute;
+      top: 9px;
+      right: 30px;
+      background-color: #fdfdfd;
+      border: 1px solid #e8e8e8;
+      border-radius: 5px;
+      text-align: right; }
+      .site-nav .menu-icon {
+        display: block;
+        float: left;
+        width: 36px;
+        height: 26px;
+        line-height: 0;
+        padding-top: 10px;
+        text-align: center; }
+        .site-nav .menu-icon > svg {
+          width: 18px;
+          height: 15px; }
+          .site-nav .menu-icon > svg path {
+            fill: #424242; }
+      .site-nav .trigger {
+        clear: both;
+        display: none; }
+      .site-nav:hover .trigger {
+        display: block;
+        padding-bottom: 5px; }
+      .site-nav .page-link {
+        display: block;
+        padding: 5px 10px; } }
