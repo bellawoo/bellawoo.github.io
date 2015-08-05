@@ -4,7 +4,7 @@ title:  The Ruby Line
 date:   2015-07-29
 categories: projects
 ---
-The Ruby Line is an app that shows you the upcoming WMATA metrorail arrivals, nearby Bikeshare dock information, and WMATA metrorail and Uber fare estimates.
+The Ruby Line is an app that shows you the upcoming WMATA metrorail arrivals, nearby Bikeshare dock information, WMATA metrorail and Uber fare estimates and walking directions.
 
 The Ruby Line has evolved over three stages. A small feature set was originally assigned as a partnership with the Front-End Engineering course at The Iron Yard DC. In this first release, the API was built in Sinatra.
 
