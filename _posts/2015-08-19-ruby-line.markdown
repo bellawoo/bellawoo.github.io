@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  The Ruby Line/Navigate DC
-date:   2015-07-29
+date:   2015-08-19
 categories: projects
 ---
 The Ruby Line is an API that provide information about the upcoming WMATA metrorail arrivals, nearby Bikeshare dock information, WMATA metrorail and Uber fare estimates and walking directions.
