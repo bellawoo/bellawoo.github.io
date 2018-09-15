@@ -5,7 +5,7 @@ permalink: /about/
 desc: 關於我&#x30FB;Introduction&#x30FB;はじめに&#x30FB;Einführung&#x30FB;Tietoja minusta&#x30FB;Sissejuhatus
 ---
 
-Hi, I'm Bella and I live in Washington, DC. Currently, I work at [Dharma](http://www.dharma.ai/) where I have the title of Junior Software Engineer, Data Science. Day in and day out, I'm working with renowned data scientists to turn our users' data into meaningful and mathematically sound insights, all in real-time.
+Hi, I'm Bella and I live in Washington, DC. Currently, I work at [Dharma](http://www.dharma.ai/) where I have the title of Software Engineer, Data Science. Day in and day out, I'm working with renowned data scientists to turn our users' data into meaningful and mathematically sound insights, all in real-time.
 
 Previously, I was an Application Support Engineer at Teaching Strategies, an early childhood education company.
 
