@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: project
 title:  Ruby Conf 2015
 date:   2015-11-18
 categories: projects

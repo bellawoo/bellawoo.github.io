@@ -10,3 +10,8 @@ github_username:  bellawoo
 
 # Build settings
 markdown: kramdown
+
+# collections
+collections:
+  projects:
+    output: true

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: project
 title:  The Ruby Line/Navigate DC
 date:   2015-08-19
 categories: projects
